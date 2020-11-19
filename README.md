@@ -1,3 +1,14 @@
+# What's For Dinner?
+
+Answer a few questions and I'll give you a dinner reccomendation!
+
+This proof-of-concept project is built using:
+* React.js
+* Material-UI 
+* Spoonacular API
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
